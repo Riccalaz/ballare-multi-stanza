@@ -1,7 +1,7 @@
 package discotecam;
 
 public class cp {
-	private int[] c;
+	private int[] c;  //arrey di contatori per le stanze
 	
 	public cp() {
 		c=new int[4];
